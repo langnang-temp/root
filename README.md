@@ -4,7 +4,7 @@
 langnang-temp.github.io
   ├─static
   │  └─requirejs
-  ├─nodejs
+  ├─node
   │  ├─npm-package
   │  │  ├─vue-package
   │  │  ├─vuepress-plugin-package
