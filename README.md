@@ -6,8 +6,8 @@ langnang-temp.github.io
   │  └─requirejs
   ├─nodejs
   │  ├─npm-package
+  │  │  └─vue-package
   │  ├─vanilla
-  │  ├─vue-package
   │  ├─vue
   │  │  ├─vue-element
   │  │  ├─vue-bootstrap
