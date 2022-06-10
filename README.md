@@ -8,7 +8,7 @@ langnang-temp.github.io
   │  ├─npm-package
   │  │  ├─vue-ui-package
   │  │  ├─vuepress-plugin-package
-  │  │  └─react-package
+  │  │  └─react-ui-package
   │  ├─vanilla
   │  ├─express
   │  ├─vue-ui
